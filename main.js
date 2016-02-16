@@ -13,3 +13,7 @@ calcTax: function (money) {
 }
 
 }
+
+//I was trying to do pasreInt(()).toFixed(2);
+//But for some reason mocha didn't like this.
+//so i dont think this is really complete. 
